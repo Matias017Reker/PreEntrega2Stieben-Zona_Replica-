@@ -1,0 +1,7 @@
+.li_link{
+    display: inline-block;
+    padding: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+}

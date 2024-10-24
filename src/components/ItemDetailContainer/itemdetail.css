@@ -1,0 +1,49 @@
+.detail{
+    display: flex;
+    margin: 1rem;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 30rem;
+    width: 70rem;
+    border: solid 1px #aaa;
+    border-radius: 0.50rem;
+    background-color: #ffff;
+}
+
+.price{
+    margin: 3px 40%; 
+}
+
+.name{
+    margin: 5px 39%;
+    width: 80%;
+}
+
+.descr{
+    text-align: center;
+    width: 70%;
+    margin: 4px 10%;
+}
+
+.btn-2 {
+    margin: 0 40%;
+    background-color: #696969;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 0.25rem;
+}
+
+.btn-2:hover {
+    margin: 0 40%;
+    background-color: #414141;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 0.25rem;
+}
